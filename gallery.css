@@ -1,0 +1,86 @@
+body{
+    background:white;
+    padding: 0;
+    margin:0;
+}
+
+.slidearea{
+    background:white;
+    padding:0;
+    text-align: center;
+}
+.slidearea h4{
+    background:linear-gradient(to right,#A0534C,transparent,#A0534C);
+    padding:20px 0;
+    text-align: center;
+    bottom:0;
+    font:bold 60px sans-serif;
+    font-family:'Niconne', 'cursive';
+    text-shadow:-3px 3px 1px black;
+}    
+.boxarea1{
+    background: white;
+    padding: 50px 0;
+    text-align: center;
+
+}
+.textarea{
+    padding: 20px 0;
+    text-align: justify;
+    background: white;
+    font-size: 18px;
+}
+.button{
+    padding: 30px 200px;
+}
+
+.textarea button{
+    padding: 10px 15px ;
+    text-align: center;
+    background: #a4632e;
+    color: white;
+    border-radius: 10px;
+}
+.textarea button:hover{
+    background: green;
+
+}
+.boxarea1 img{
+    width:100%;
+    
+}
+.imagearea img{
+    width: 100%;
+}
+.boxarea2{
+    background:white;
+    padding: 50px 0;
+    text-align: center;
+}
+.boxarea2 img{
+    width:100%;
+    opacity:0.8;
+    transition: 2s all;
+}
+.boxarea2 img:hover{
+    opacity:1;
+}
+.images{
+    width:100%;
+    opacity:0.8;
+    transition: 2s all;
+}
+.images:hover{
+    opacity:1;
+}
+.wedding{
+    background:white;
+    padding: 50px 0;
+    text-align: center;
+}
+.wedding img{
+    width:100%;
+}
+.wedding_pic img{
+    width:100%;
+}

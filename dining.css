@@ -1,0 +1,87 @@
+body{
+    background:white;
+    padding:0;
+    margin:0;
+}
+
+.slidearea{
+    background:white;
+    padding: 0;
+    text-align: center;
+}
+.slidearea h4{
+    background:linear-gradient(to right,#A0534C,transparent,#A0534C);
+    padding:20px 0;
+    text-align: center;
+    bottom:0;
+    font:bold 60px sans-serif;
+    font-family:'Niconne', 'cursive';
+    text-shadow:-3px 3px 1px black;
+}
+.dining{
+    background:white;
+    padding:50px 0;
+    text-align: center;
+}
+.dining h2{
+    text-align: center;
+    padding: 40px 0;
+    font: bold 45px italic;
+}
+.dining p{
+    text-align: justify;
+    padding: 20px 0;
+    font-size:18px;
+}
+.finns{
+    background:white;
+    padding: 50px 0;
+    text-align: center;
+}
+.finns img{
+    width: 100%;
+}
+.finns h2{
+    text-align: center;
+    font: bold 45px italic;
+}
+.finns p{
+    text-align: justify;
+    padding: 20px 0;
+    font-size:18px;
+}
+.buffet{
+    background:white;
+    padding:50px 0;
+    text-align: center;
+}
+.buffet img{
+    width:100%;
+}
+.buffet h2{
+    text-align: center;
+    font: bold 45px italic;
+}
+.buffet p{
+    text-align: justify;
+    padding: 20px 0;
+    font-size:18px;
+}
+.service{
+    background:white;
+    padding: 50px 0;
+    text-align: center;
+}
+.service img{
+    width: 100%;
+}
+.service h2{
+    text-align: center;
+    font: bold 45px italic;
+}
+.service p{
+    text-align: justify;
+    padding: 20px 0;
+    font-size:18px;
+}
+

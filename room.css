@@ -1,0 +1,70 @@
+body{
+    background:white;
+    padding:0;
+    margin:0;
+}
+
+.slidearea{
+    background:white;
+    padding:0;
+    text-align: center;
+}
+.slidearea h4{
+    background:linear-gradient(to right,#A0534C,transparent,#A0534C);
+    padding:20px 0;
+    text-align: center;
+    bottom:0;
+    font:bold 60px sans-serif;
+    font-family:'Niconne', 'cursive';
+    text-shadow:-3px 3px 1px black;
+}
+.room1{
+    background: white;
+    padding: 50px;
+    text-align: center;
+}
+.imagebox img{
+    width:100%;
+}
+.room1 h2{
+    font: bold 45px italic;
+}
+.room1 p{
+    text-align:justify;
+    padding:20px 0;
+    font-size:18px;
+}
+.room2 h2{
+    font: bold 45px italic;
+}
+.room2{
+    background:white;
+    padding: 50px;
+    text-align: center;
+    
+}
+.image img{
+    width: 100%;
+
+}
+.room2 p{
+    text-align:justify;
+    padding: 20px 0;
+    font-size:18px;
+}
+.area{
+    background: #F6F1EF;
+    padding: 50px;
+    text-align: center;
+}
+.area h2{
+    font: bold 45px italic;
+}
+.area p{
+    text-align: justify;
+    padding:20px 0;
+    font-size:18px;
+}
+.imagesection img{
+    width:100%;
+}

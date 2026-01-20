@@ -1,0 +1,92 @@
+.toparea {
+    background: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.toparea button {
+    /* background: #A0534C; */
+    background:#a4632e;
+    padding: 10px 30px;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    margin-top:7px;
+
+}
+
+.nav-link {
+    color:black !important;
+    font-weight: bold;
+}
+
+.nav-link:hover {
+    color: green !important;
+    text-decoration: underline;
+}
+
+.booking {
+    padding: 58px 0;
+    border-radius: 20px 0;
+}
+
+.menuarea {
+    padding: 50px 0;
+}
+
+.toparea button:hover {
+    color: white;
+    /* text-decoration: underline; */
+    background:green;
+}
+
+.footerarea {
+
+    background: white;
+    /* padding: 50px 0; */
+    text-align:left;
+
+}
+
+.footerarea h3 {
+    text-align:left;
+    padding: 10px;
+
+}
+
+.footerarea p {
+    text-align: justify;
+}
+/* .footerarea ul{
+    padding: 10px;
+} */
+.footerarea ul li{
+    list-style: none;
+    padding: 5px 20px;
+    text-decoration: none;
+}
+.footerarea ul li a:hover{
+    color:green;
+
+}
+.footerlink ul{
+    padding: 0;
+    margin:0;
+    text-decoration: none;
+    color:#a4632e;
+}
+.footerlink ul li{
+    text-decoration: none;
+    transition: all 2s;
+
+}
+.footerlink ul li:hover{
+    /* transition: all 2s; */
+    transform: translateX(10px);
+}
+.footerlink ul li a:link, .footerlink ul li:visited{
+    color:red !important;
+    text-decoration: none ;
+}
+
+
